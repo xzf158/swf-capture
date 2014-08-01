@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#container{
+	width: 240px;
+	height: 115px;
+	background: rgba(0,0,0,.7);
+	position: relative;
+	top: 0px;
+	left: 0px;
+	-webkit-border-radius: 2px;
+}
+
+section{
+	margin: 10px;
+	width: 220px;
+	height: 80px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	color: #ffffff;
+}
+
+.add-on{
+	color: #000000;
+}
+
+#appendedInput{
+	width: 110px;
+}
+
+#progress{
+	display: none;
+}
+
+#save-form{
+	display: none;
+}
